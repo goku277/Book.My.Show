@@ -1,2 +1,2 @@
 # Book.My.Show
-Book My Show Back-End project using spring boot
+Book My Show Back-End project using spring boot and postgresql
